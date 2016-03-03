@@ -1,0 +1,5 @@
+D:\mygithub\WindAPISample\WindConsoleAppSample\bin\Debug\WindConsoleAppSample.exe
+D:\mygithub\WindAPISample\WindConsoleAppSample\bin\Debug\WindConsoleAppSample.pdb
+D:\mygithub\WindAPISample\WindConsoleAppSample\obj\Debug\WindConsoleAppSample.csprojResolveAssemblyReference.cache
+D:\mygithub\WindAPISample\WindConsoleAppSample\obj\Debug\WindConsoleAppSample.exe
+D:\mygithub\WindAPISample\WindConsoleAppSample\obj\Debug\WindConsoleAppSample.pdb
